@@ -1,0 +1,10 @@
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\bin\Debug\netcoreapp1.1\FitnessWitness.deps.json
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\bin\Debug\netcoreapp1.1\FitnessWitness.runtimeconfig.json
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\bin\Debug\netcoreapp1.1\FitnessWitness.runtimeconfig.dev.json
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\bin\Debug\netcoreapp1.1\FitnessWitness.dll
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\bin\Debug\netcoreapp1.1\FitnessWitness.pdb
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\obj\Debug\netcoreapp1.1\FitnessWitness.csprojResolveAssemblyReference.cache
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\obj\Debug\netcoreapp1.1\FitnessWitness.AssemblyInfo.cs
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\obj\Debug\netcoreapp1.1\FitnessWitness.dll
+c:\users\fredrik\documents\visual studio 2017\Projects\FitnessWitness\FitnessWitness\obj\Debug\netcoreapp1.1\FitnessWitness.pdb
