@@ -10995,15 +10995,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fredrik\\.nuget\\packages\\": {}
+    "C:\\Users\\dkris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\fredrik\\documents\\visual studio 2017\\Projects\\FitnessWitness\\FitnessWitness\\FitnessWitness.csproj",
+      "projectUniqueName": "C:\\Dev\\FitnessWitness\\FitnessWitness\\FitnessWitness.csproj",
       "projectName": "FitnessWitness",
-      "projectPath": "c:\\users\\fredrik\\documents\\visual studio 2017\\Projects\\FitnessWitness\\FitnessWitness\\FitnessWitness.csproj",
-      "outputPath": "c:\\users\\fredrik\\documents\\visual studio 2017\\Projects\\FitnessWitness\\FitnessWitness\\obj\\",
+      "projectPath": "C:\\Dev\\FitnessWitness\\FitnessWitness\\FitnessWitness.csproj",
+      "outputPath": "C:\\Dev\\FitnessWitness\\FitnessWitness\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
